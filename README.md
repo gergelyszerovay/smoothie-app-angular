@@ -27,7 +27,7 @@ To build the application:
 1. **Clone the specification branch**:
 
    ```bash
-   git clone -b specification-001 <repository-url> /workspace
+   git clone -b specification-001 https://github.com/gergelyszerovay/smoothie-app-angular /workspace
    ```
 
    **Note**: There is also an `implementation-001` branch containing the working, implemented application if you want to see the final result.
