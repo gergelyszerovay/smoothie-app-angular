@@ -1,0 +1,70 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SmoothieHub - No Recipes Found</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script>
+    <link rel="stylesheet" href="/0-tools/component-highlighter/styles.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+        body { font-family: 'Inter', sans-serif; }
+    </style>
+</head>
+<body class="bg-gray-900 min-h-screen text-white flex items-center justify-center p-4">
+   <div class="w-full max-w-4xl mx-auto" data-component="EmptyState">
+       <div class="grid md:grid-cols-2 gap-8 items-center">
+           <div class="hidden md:block">
+                <!-- Placeholder Image -->
+                <img src="https://images.unsplash.com/photo-1610970881699-44a5587cabec?w=400&h=240&fit=crop" alt="No recipes found" class="mx-auto rounded-lg shadow-lg w-full max-w-sm object-cover bg-gray-800">
+           </div>
+           <div class="text-center md:text-left">
+                <!-- Message -->
+                <div class="mb-8">
+                    <h3 class="text-3xl md:text-4xl font-semibold text-white mb-4">No recipes found</h3>
+                    <p class="text-gray-300 text-lg leading-relaxed mb-2">We couldn't find any smoothie recipes with those ingredients.</p>
+                </div>
+
+                <!-- Suggestions -->
+                <div class="mb-8">
+                    <h4 class="text-lg font-medium text-white mb-4">Popular ingredients to try:</h4>
+                    <div class="flex flex-wrap justify-center md:justify-start gap-2">
+                        <button onclick="addSuggestedIngredient('banana')" class="px-4 py-2 bg-gray-800 border border-gray-600 rounded-full text-gray-300 hover:bg-gray-700 hover:border-yellow-400 hover:text-yellow-400 transition-all" data-component="IngredientChip">
+                            🍌 Banana
+                        </button>
+                        <button onclick="addSuggestedIngredient('mango')" class="px-4 py-2 bg-gray-800 border border-gray-600 rounded-full text-gray-300 hover:bg-gray-700 hover:border-orange-400 hover:text-orange-400 transition-all" data-component="IngredientChip">
+                            🥭 Mango
+                        </button>
+                        <button onclick="addSuggestedIngredient('spinach')" class="px-4 py-2 bg-gray-800 border border-gray-600 rounded-full text-gray-300 hover:bg-gray-700 hover:border-green-400 hover:text-green-400 transition-all" data-component="IngredientChip">
+                            🥬 Spinach
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Action Button -->
+                <div>
+                    <a href="#" onclick="showAllRecipes()" class="inline-flex items-center gap-2 text-pink-400 font-medium hover:text-pink-300 transition-colors">
+                        Browse All Recipes
+                        <i data-lucide="arrow-right" class="w-4 h-4"></i>
+                    </a>
+                </div>
+           </div>
+       </div>
+   </div>
+    <script>
+        lucide.createIcons();
+        function addSuggestedIngredient(ingredient) {
+            // Stub: Implement ingredient add logic
+            alert('Add ingredient: ' + ingredient);
+        }
+        function resetFilters() {
+            // Stub: Implement reset logic
+            alert('Reset filters!');
+        }
+        function showAllRecipes() {
+            // Stub: Implement show all recipes logic
+            alert('Show all recipes!');
+        }
+    </script>
+    <script src="/0-tools/component-highlighter/script.js"></script>
+</body>
+</html> 

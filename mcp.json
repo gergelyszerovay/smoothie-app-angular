@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "agents": {
+      "command": "npx",
+      "args": [
+        "-y", "mcp-agent-swarm", 
+        "--enableHttpTransport=false",
+        "--enableStdioTransport=true",
+        "--enableRestServer=false",
+        "--logDir=/workspace/agent-logs", 
+        "--agentsDir=/workspace/aibd/agents"
+      ]
+    }
+  }
+}

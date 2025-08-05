@@ -1,0 +1,336 @@
+[
+    {
+      "id": "berry-banana-smoothie",
+      "name": "Berry Banana Smoothie",
+      "description": "Start your day with this antioxidant-rich breakfast smoothie. Packed with vitamin C from mixed berries and potassium from banana, it's naturally sweet and creamy. Perfect for busy mornings when you need sustained energy.",
+      "ingredients": [
+        {
+          "name": "banana",
+          "amount": "1",
+          "unit": "large"
+        },
+        {
+          "name": "mixed berries",
+          "amount": "1",
+          "unit": "cup"
+        },
+        {
+          "name": "milk or yogurt",
+          "amount": "1",
+          "unit": "cup"
+        },
+        {
+          "name": "honey",
+          "amount": "1",
+          "unit": "tablespoon"
+        },
+        {
+          "name": "ice cubes",
+          "amount": "4-6",
+          "unit": "pieces"
+        }
+      ],
+      "proTips": [
+        "Use frozen berries for a thicker consistency.",
+        "A tablespoon of chia seeds adds healthy fats and fiber.",
+        "For a protein boost, add a scoop of your favorite protein powder."
+      ],
+      "tags": ["breakfast", "antioxidant", "quick", "kid-friendly", "vitamin-c"]
+    },
+    {
+      "id": "green-power-smoothie",
+      "name": "Green Power Smoothie",
+      "description": "Fuel your body with this nutrient-dense green smoothie that doesn't taste like vegetables. The banana and lime mask the spinach flavor while avocado creates an incredibly creamy texture. Loaded with healthy fats, fiber, and plant-based protein for sustained energy.",
+      "ingredients": [
+        {
+          "name": "fresh spinach",
+          "amount": "1",
+          "unit": "cup"
+        },
+        {
+          "name": "banana",
+          "amount": "1",
+          "unit": "medium"
+        },
+        {
+          "name": "avocado",
+          "amount": "1/2",
+          "unit": "medium"
+        },
+        {
+          "name": "coconut water",
+          "amount": "1",
+          "unit": "cup"
+        },
+        {
+          "name": "chia seeds",
+          "amount": "1",
+          "unit": "tablespoon"
+        },
+        {
+          "name": "lime juice",
+          "amount": "1",
+          "unit": "squeeze"
+        }
+      ],
+      "proTips": [
+        "Use baby spinach for a milder, less bitter taste.",
+        "Freeze your banana beforehand for a creamier, thicker texture.",
+        "Add a teaspoon of matcha powder for an extra antioxidant kick."
+      ],
+      "tags": ["healthy", "green", "vegan", "protein", "omega-3", "detox"]
+    },
+    {
+      "id": "tropical-paradise",
+      "name": "Tropical Paradise",
+      "description": "Transport yourself to a tropical island with this refreshing smoothie. Sweet pineapple and mango provide natural enzymes for digestion while coconut milk adds rich creaminess. This vitamin-packed treat feels like vacation in a glass.",
+      "ingredients": [
+        {
+          "name": "pineapple chunks",
+          "amount": "1",
+          "unit": "cup"
+        },
+        {
+          "name": "mango",
+          "amount": "1/2",
+          "unit": "large"
+        },
+        {
+          "name": "banana",
+          "amount": "1/2",
+          "unit": "medium"
+        },
+        {
+          "name": "coconut milk",
+          "amount": "1",
+          "unit": "cup"
+        },
+        {
+          "name": "shredded coconut",
+          "amount": "1",
+          "unit": "tablespoon"
+        }
+      ],
+      "proTips": [
+        "Use full-fat coconut milk for the richest, creamiest consistency.",
+        "A pinch of turmeric can enhance the anti-inflammatory benefits.",
+        "Garnish with a slice of fresh pineapple for a true tropical feel."
+      ],
+      "tags": ["tropical", "vegan", "dairy-free", "vitamin-a", "digestive", "summer"]
+    },
+    {
+      "id": "chocolate-peanut-butter",
+      "name": "Chocolate Peanut Butter",
+      "description": "Indulge in this protein-rich smoothie that tastes like a milkshake but fuels your body. Natural peanut butter provides healthy fats and protein while cocoa powder delivers antioxidants. Perfect post-workout treat or satisfying breakfast replacement.",
+      "ingredients": [
+        {
+          "name": "banana",
+          "amount": "1",
+          "unit": "large"
+        },
+        {
+          "name": "natural peanut butter",
+          "amount": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "unsweetened cocoa powder",
+          "amount": "1",
+          "unit": "tablespoon"
+        },
+        {
+          "name": "milk",
+          "amount": "1",
+          "unit": "cup"
+        },
+        {
+          "name": "honey",
+          "amount": "1",
+          "unit": "tablespoon"
+        },
+        {
+          "name": "ice cubes",
+          "amount": "4-6",
+          "unit": "pieces"
+        }
+      ],
+      "proTips": [
+        "Use a frozen banana to make the smoothie thicker and more decadent.",
+        "A dash of instant espresso powder will intensify the chocolate flavor.",
+        "For a dairy-free version, substitute almond or oat milk."
+      ],
+      "tags": ["protein", "post-workout", "indulgent", "filling", "chocolate", "breakfast"]
+    },
+    {
+      "id": "protein-powerhouse",
+      "name": "Protein Powerhouse",
+      "description": "Build muscle and recover faster with this protein-packed smoothie. Greek yogurt provides essential amino acids while almond butter adds healthy fats. Perfect for post-workout recovery or as a protein-rich breakfast that keeps you full for hours.",
+      "ingredients": [
+        {
+          "name": "Greek yogurt",
+          "amount": "1",
+          "unit": "cup"
+        },
+        {
+          "name": "almond butter",
+          "amount": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "banana",
+          "amount": "1",
+          "unit": "medium"
+        },
+        {
+          "name": "protein powder",
+          "amount": "1",
+          "unit": "scoop"
+        },
+        {
+          "name": "almond milk",
+          "amount": "1/2",
+          "unit": "cup"
+        },
+        {
+          "name": "honey",
+          "amount": "1",
+          "unit": "teaspoon"
+        }
+      ],
+      "proTips": [
+        "Use vanilla protein powder for a sweeter taste.",
+        "Freeze your banana for a thicker, creamier texture.",
+        "Add a pinch of cinnamon for extra flavor without calories."
+      ],
+      "tags": ["protein", "post-workout", "filling", "breakfast"]
+    },
+    {
+      "id": "sunset-orange",
+      "name": "Sunset Orange",
+      "description": "Brighten your day with this vitamin C powerhouse that tastes like liquid sunshine. Fresh oranges and carrots provide natural sweetness while ginger adds a subtle kick. This immune-boosting smoothie is perfect for cold and flu season.",
+      "ingredients": [
+        {
+          "name": "fresh orange juice",
+          "amount": "1",
+          "unit": "cup"
+        },
+        {
+          "name": "carrots",
+          "amount": "2",
+          "unit": "medium"
+        },
+        {
+          "name": "banana",
+          "amount": "1",
+          "unit": "medium"
+        },
+        {
+          "name": "fresh ginger",
+          "amount": "1",
+          "unit": "inch"
+        },
+        {
+          "name": "turmeric",
+          "amount": "1/4",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "ice cubes",
+          "amount": "4-6",
+          "unit": "pieces"
+        }
+      ],
+      "proTips": [
+        "Use fresh ginger for the best anti-inflammatory benefits.",
+        "Add a pinch of black pepper to enhance turmeric absorption.",
+        "For extra creaminess, include a tablespoon of Greek yogurt."
+      ],
+      "tags": ["vitamin-c", "healthy", "detox"]
+    },
+    {
+      "id": "blueberry-oatmeal",
+      "name": "Blueberry Oatmeal",
+      "description": "Start your morning with this hearty smoothie that combines the best of breakfast. Rolled oats provide sustained energy while blueberries deliver antioxidants. This fiber-rich smoothie keeps you satisfied until lunch.",
+      "ingredients": [
+        {
+          "name": "rolled oats",
+          "amount": "1/2",
+          "unit": "cup"
+        },
+        {
+          "name": "blueberries",
+          "amount": "1",
+          "unit": "cup"
+        },
+        {
+          "name": "banana",
+          "amount": "1",
+          "unit": "medium"
+        },
+        {
+          "name": "milk",
+          "amount": "1",
+          "unit": "cup"
+        },
+        {
+          "name": "honey",
+          "amount": "1",
+          "unit": "tablespoon"
+        },
+        {
+          "name": "cinnamon",
+          "amount": "1/4",
+          "unit": "teaspoon"
+        }
+      ],
+      "proTips": [
+        "Soak oats overnight for a creamier texture.",
+        "Use frozen blueberries for a thicker consistency.",
+        "Add a tablespoon of chia seeds for extra fiber and omega-3s."
+      ],
+      "tags": ["breakfast", "antioxidant", "filling"]
+    },
+    {
+      "id": "mint-chocolate-chip",
+      "name": "Mint Chocolate Chip",
+      "description": "Indulge in this refreshing dessert smoothie that tastes like your favorite ice cream flavor. Fresh mint leaves provide natural flavor while dark chocolate chips add decadent texture. Perfect for satisfying sweet cravings healthily.",
+      "ingredients": [
+        {
+          "name": "banana",
+          "amount": "1",
+          "unit": "large"
+        },
+        {
+          "name": "fresh mint leaves",
+          "amount": "8-10",
+          "unit": "leaves"
+        },
+        {
+          "name": "milk",
+          "amount": "1",
+          "unit": "cup"
+        },
+        {
+          "name": "dark chocolate chips",
+          "amount": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "honey",
+          "amount": "1",
+          "unit": "tablespoon"
+        },
+        {
+          "name": "ice cubes",
+          "amount": "4-6",
+          "unit": "pieces"
+        }
+      ],
+      "proTips": [
+        "Use frozen banana for an ice cream-like texture.",
+        "Add a drop of peppermint extract for extra mint flavor.",
+        "Garnish with fresh mint leaves and chocolate shavings."
+      ],
+      "tags": ["indulgent", "chocolate"]
+    }
+]
