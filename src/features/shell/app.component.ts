@@ -1,10 +1,9 @@
 import { Component } from '@angular/core';
-import { MainLayoutContainer } from '@features/main-layout/main-layout-container';
 
 @Component({
   selector: 'app-root',
-  imports: [MainLayoutContainer],
-  template: `<app-main-layout-container/>`,
+  imports: [],
+  template: `Angular + Tailwind CSS`,
 })
 export class AppComponent {
   title = '';

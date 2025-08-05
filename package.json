@@ -14,7 +14,7 @@
     "prettier": "pnpm exec prettier ./src --write",
     "madge": "pnpm exec madge --ts-config ./tsconfig.app.json --circular ./src/main.ts",
     "docs:gen-overview": "tsx aibd/tools/generate-html-prototypes-overview-tool/generate-overview.ts",
-    "remove-implementation": "rm -rf ./src ./aibd-vibe-specs/3-implementation/stories/* ./aibd-vibe-specs/3-implementation/reports/* ./agent-logs/* && tar -xzf ./.host/src-empty-angular-project.tgz"
+    "remove-implementation": "rm -rf ./src ./aibd-vibe-specs/3-implementation/stories/* ./aibd-vibe-specs/3-implementation/reports/* ./agent-logs/* && tar -xzf /workspace/.host/src-empty-angular-project.tgz"
   },
   "dependencies": {
     "@angular/animations": "^20.0.4",
